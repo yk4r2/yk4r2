@@ -1,0 +1,4 @@
+Education 🎓:
+*
+Hobbies 🎲:
+*
