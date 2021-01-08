@@ -5,3 +5,9 @@ Education 🎓:
 Hobbies 🎲:
 * Social Dances
 * Mathematics
+
+Contacts :
+* [t.me/ykvr2](Telegram)
+* [zhestov.ea@phystech.edu](Official post)
+* [linkedin.com/in/yk4r2/](Linkedin)
+* [github.com/yk4r2](Github)
