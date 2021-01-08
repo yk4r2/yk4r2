@@ -7,7 +7,7 @@ Hobbies 🎲:
 * Mathematics
 
 Contacts :
-* [Telegram](t.me/ykvr2)
+* [Telegram](https://www.t.me/ykvr2)
 * [Official post](mailto:zhestov.ea@phystech.edu)
-* [Linkedin](linkedin.com/in/yk4r2/)
-* [Github](github.com/yk4r2)
+* [Linkedin](https://www.linkedin.com/in/yk4r2/)
+* [Github](https://www.github.com/yk4r2)
