@@ -6,7 +6,7 @@ Hobbies 🎲:
 * Social Dances
 * Mathematics
 
-Contacts :
+Contacts 📧:
 * [Telegram](https://www.t.me/ykvr2)
 * [Official post](mailto:zhestov.ea@phystech.edu)
 * [Linkedin](https://www.linkedin.com/in/yk4r2/)
