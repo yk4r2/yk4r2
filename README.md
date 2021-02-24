@@ -6,7 +6,7 @@
 
 Applied Mathematics student at [Moscow University of Physics and technology](https://mipt.ru/english/).
 
-CV Researcher with passion for ML and Analytics along with social dancing. Fascinated by everything that's DS related. Proudly from Moscow, Russia 🇷🇺.
+CV Researcher with passion for ML and Analytics along with social dancing 🕺. Fascinated by everything that's DS related. Proudly from Moscow, Russia 🇷🇺.
 
 ### BIO
 
