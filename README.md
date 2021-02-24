@@ -4,7 +4,9 @@
 ![SQL](https://img.shields.io/badge/SQL-Expert-orange)
 ![Scala](https://img.shields.io/badge/Spark&Scala-Intermediate-blue)
 
-Applied Mathematics student at [Moscow University of Physics and technology](https://mipt.ru/english/). CV Researcher with passion for ML and Analytics along with social dancing. Fascinated by everything that's DS related. Proudly from Moscow, Russia 🇷🇺.
+Applied Mathematics student at [Moscow University of Physics and technology](https://mipt.ru/english/).
+
+CV Researcher with passion for ML and Analytics along with social dancing. Fascinated by everything that's DS related. Proudly from Moscow, Russia 🇷🇺.
 
 ### BIO
 
