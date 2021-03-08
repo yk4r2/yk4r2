@@ -19,7 +19,7 @@ CV Researcher with passion for ML and Analytics along with social dancing 🕺. 
 ### 📧 Get in Touch
 
 - [My blog in Telegram](https://t.me/i_dont_like_camelCase)
-- [![My blog in Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/i_dont_like_camelCase)
+- [![My blog in Telegram](https://img.shields.io/badge/-Telegram%20blog-blue)](https://t.me/i_dont_like_camelCase)
 - [Official post](mailto:zhestov.ea@phystech.edu)
 - [Linkedin](https://www.linkedin.com/in/yk4r2/)
 - [Github](https://www.github.com/yk4r2)
