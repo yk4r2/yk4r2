@@ -11,7 +11,7 @@ CV Researcher with passion for ML and Analytics along with social dancing 🕺. 
 ### BIO
 
 - 🔭 I'm currently studying **Discrete Mathematics** at [MIPT](https://mipt.ru/english/) and **Product Analytics** at [AAA](https://avito-analytics-academy.ru/)
-- 🌱 I'm currently learning applied statistics along with econometrics, visualization & experiments theory
+- 🌱 I'm currently learning **applied statistics** along with **econometrics**, **visualization** & **experiments theory**
 - ⚙️ Mastering: `.py`
 - 👯 I'm looking to collaborate on **Open Source** and **Case** projects
 - 📫 Ping me about **Python**, **Discrete Maths** and **DS**
