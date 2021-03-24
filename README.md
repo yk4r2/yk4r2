@@ -18,7 +18,7 @@ CV Researcher with passion for ML and Analytics along with social dancing 🕺. 
 
 ### 📧 Get in Touch
 
-[![My Telegram](https://img.shields.io/badge/-My%20telegram-0e1a40?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ykvr2) [![My blog in Telegram](https://img.shields.io/badge/-Telegram%20blog-222f5b?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/i_dont_like_camelCase) [![zhestov.ea@phystech.edu](https://img.shields.io/badge/my_email%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white&color=5d5d5d)](mailto:zhestov.ea@phystech.edu) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=946b2d)](https://www.linkedin.com/in/yk4r2/) [![Github](https://img.shields.io/badge/-Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/yk4r2)
+[![My Telegram](https://img.shields.io/badge/-My%20telegram-2b4d59?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ykvr2) [![My blog in Telegram](https://img.shields.io/badge/-Telegram%20blog-39998e?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/i_dont_like_camelCase) [![zhestov.ea@phystech.edu](https://img.shields.io/badge/my_email%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white&color=ffdc7c)](mailto:zhestov.ea@phystech.edu) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=ffaa67)](https://www.linkedin.com/in/yk4r2/) [![Github](https://img.shields.io/badge/-Github-da674a?&style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/yk4r2)
 
 ### 📚 Looking for my CV? E-Mail me!
 
