@@ -1,8 +1,8 @@
 # Hello, I'm Egor Zhestow 👋
 
-![Python](https://img.shields.io/badge/Python-Expert-orange)
-![SQL](https://img.shields.io/badge/SQL-Expert-orange)
-![Scala](https://img.shields.io/badge/Spark&Scala-Intermediate-blue)
+![Python](https://img.shields.io/badge/-python:%20expert-F0C05C?logo=python&style=for-the-badge&logoWidth=30&suffix=expert)
+![SQL](https://img.shields.io/badge/-SQL:%20expert-F0C05C?logo=SQL&style=for-the-badge&logoWidth=30&suffix=expert)
+![Scala](https://img.shields.io/badge/-SPARK+SCALA:%20intermediate-F0C05C?logo=scala&style=for-the-badge&logoWidth=30&suffix=expert)
 
 Applied Mathematics student at [Moscow University of Physics and technology](https://mipt.ru/english/).
 
