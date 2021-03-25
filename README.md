@@ -15,7 +15,6 @@ CV Researcher with passion for ML and Analytics along with social dancing 🕺. 
 - ⚙️ Mastering: `.py`
 - 👯 I'm looking to collaborate on **Open Source** and **Case** projects
 - 📫 Ping me about **Python**, **Discrete Maths** and **DS**
--  Pickup guru
 
 ### 📧 Get in Touch
 
