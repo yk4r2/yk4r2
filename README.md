@@ -4,12 +4,13 @@
 ![SQL](https://img.shields.io/badge/-SQL:%20expert-ffaa67?&logo=postgresql&style=for-the-badge&logoWidth=30&suffix=expert)
 ![Scala](https://img.shields.io/badge/-SPARK+SCALA:%20intermediate-da674a?logo=scala&style=for-the-badge&logoWidth=30&suffix=expert&logoColor=white)
 
-Applied Mathematics student at [Moscow University of Physics and technology](https://mipt.ru/english/).
+Applied Mathematics student at [Moscow University of Physics and Technology](https://mipt.ru/english/).
 
 CV Researcher with passion for ML and Analytics along with social dancing 🕺. Fascinated by everything that's DS related. Proudly from Moscow, Russia 🇷🇺.
 
 ### BIO
 
+- 🦅 **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) without -us. 
 - 🔭 I'm currently studying **Discrete Mathematics** at [MIPT](https://mipt.ru/english/) and **Product Analytics** at [AAA](https://avito-analytics-academy.ru/)
 - 🌱 I'm currently learning **applied statistics** along with **econometrics**, **visualization** & **experiments theory**
 - ⚙️ Mastering: `.py`
