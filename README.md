@@ -8,9 +8,10 @@ Applied Mathematics student at [Moscow University of Physics and Technology](htt
 
 CV Researcher with passion for ML and Analytics along with social dancing 🕺. Fascinated by everything that's DS related. Proudly from Moscow, Russia 🇷🇺.
 
+BTW, **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) without -us. 🦅
+
 ### BIO
 
-- 🦅 **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) without -us. 
 - 🔭 I'm currently studying **Discrete Mathematics** at [MIPT](https://mipt.ru/english/) and **Product Analytics** at [AAA](https://avito-analytics-academy.ru/)
 - 🌱 I'm currently learning **applied statistics** along with **econometrics**, **visualization** & **experiments theory**
 - ⚙️ Mastering: `.py`
