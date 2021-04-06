@@ -6,7 +6,7 @@
 
 Applied Mathematics student at [Moscow University of Physics and Technology](https://mipt.ru/english/).
 
-CV Researcher with passion for ML and Analytics along with social dancing 🕺. Fascinated by everything that's DS related. Proudly from Moscow, Russia 🇷🇺.
+CV Researcher with passion for ML and Product Analytics along with social dancing 🕺. Fascinated by everything that's DS related. Proudly from Moscow, Russia 🇷🇺.
 
 BTW, **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) without -us. 🦅
 
@@ -17,6 +17,7 @@ BTW, **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) withou
 - ⚙️ Mastering: `.py`
 - 👯 I'm looking to collaborate on **Open Source** and **Case** projects
 - 📫 Ping me about **Python**, **Discrete Maths** and **DS**
+- 🚗 Studying CV and logistics in context of **autonomous vehicles**. Currently working on [SalsaNext](https://github.com/Halmstad-University/SalsaNext) using [NVIDIA TensorRT SDK](https://developer.nvidia.com/tensorrt) and [Pytorch](https://pytorch.org) and trying to apply a [Triber's Intellegent Driver model](https://en.wikipedia.org/wiki/Intelligent_driver_model) to real data.
 
 ### 📧 Get in Touch
 
