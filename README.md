@@ -10,14 +10,15 @@ CV Researcher with passion for ML and Product Analytics along with social dancin
 
 BTW, **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) without -us. 🦅
 
-### 👾BIO
+### 👾 BIO
 
 - 🔭 I'm currently studying **Discrete Mathematics** at [MIPT](https://mipt.ru/english/) and **Product Analytics** at [AAA](https://avito-analytics-academy.ru/)
 - 🌱 I'm currently learning **applied statistics** along with **econometrics**, **visualization** & **experiments theory**
 - ⚙️ Mastering: `.py`
 - 👯 I'm looking to collaborate on **Open Source** and **Case** projects
 - 📫 Ping me about **Python**, **Discrete Maths** and **DS**
-- 🚗 Studying CV and logistics in context of **autonomous vehicles**. Currently working on [SalsaNext](https://github.com/Halmstad-University/SalsaNext) using [NVIDIA TensorRT SDK](https://developer.nvidia.com/tensorrt) and [Pytorch](https://pytorch.org) and trying to apply a [Triber's Intellegent Driver model](https://en.wikipedia.org/wiki/Intelligent_driver_model) to real data.
+- 🚗 Studying CV in context of **autonomous vehicles**. Currently working on [SalsaNext](https://github.com/Halmstad-University/SalsaNext) using [NVIDIA TensorRT SDK](https://developer.nvidia.com/tensorrt) and [Pytorch](https://pytorch.org).
+- 🧪 Trying to apply a [Triber's Intellegent Driver model](https://en.wikipedia.org/wiki/Intelligent_driver_model) to real data under the supervision of [Tatiana Babicheva](https://scholar.google.com/citations?user=Apd66t4AAAAJ&hl=th).
 
 ### 📧Get in Touch
 
