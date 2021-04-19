@@ -18,7 +18,7 @@ BTW, **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) withou
 - 👯 I'm looking to collaborate on **Open Source** and **Case** projects
 - 📫 Ping me about **Python**, **Discrete Maths** and **DS**
 - 🚗 Studying CV in context of **autonomous robots**. Currently working on [SalsaNext](https://github.com/Halmstad-University/SalsaNext) using [NVIDIA TensorRT SDK](https://developer.nvidia.com/tensorrt) and [Pytorch](https://pytorch.org).
-- 🧪 Trying to apply a **[Triber's Intellegent Driver model](https://en.wikipedia.org/wiki/Intelligent_driver_model)** to real-world data under the supervision of [Tatiana Babicheva](https://scholar.google.com/citations?user=Apd66t4AAAAJ&hl=th).
+- 🧪 Trying to apply a **[Triber's Intellegent Driver model](https://en.wikipedia.org/wiki/Intelligent_driver_model)** to real-world data under the supervision of [Tatiana Babicheva](https://scholar.google.com/citations?user=Apd66t4AAAAJ&hl=th) (my future diploma).
 
 ### 📧Get in Touch
 
