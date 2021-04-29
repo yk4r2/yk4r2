@@ -19,7 +19,7 @@ BTW, **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) withou
 - 👯 I'm looking to collaborate on **Open Source** and **Case** projects
 - 📫 Ping me about **Python**, **Discrete Maths**, **Applied Statistics** and **DS**
 - 🚗 Studying CV in context of **autonomous robots**. Currently working on [SalsaNext](https://github.com/Halmstad-University/SalsaNext) using [NVIDIA TensorRT SDK](https://developer.nvidia.com/tensorrt) and [Pytorch](https://pytorch.org).
-- 🧪 Trying to apply a **[Treiber's Intellegent Driver model](https://en.wikipedia.org/wiki/Intelligent_driver_model)** to real-world data under the supervision of [Tatiana Babicheva](https://scholar.google.com/citations?user=Apd66t4AAAAJ&hl=th) (my future diploma).
+- 🧪 Trying to apply a **[Treiber's Intellegent Driver model](https://en.wikipedia.org/wiki/Intelligent_driver_model)** to real-world data under the supervision of [Tatiana Babicheva](https://scholar.google.com/citations?user=Apd66t4AAAAJ&hl=th): (code is here)[https://github.com/yk4r2/ZhESSim].
 
 ### 📧Get in Touch
 
