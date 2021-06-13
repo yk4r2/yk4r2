@@ -17,7 +17,7 @@ BTW, **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) withou
 - 🌱 I'm currently learning **applied statistics** along with **econometrics**, **visualization** & **experiments theory**
 - ⚙️ Mastering: `.py`
 - 👯 I'm looking to collaborate on **Open Source** and **Case** projects
-- 📫 Ping me about **Python**, **Discrete Maths**, **Applied Statistics** and **DS**
+- 📫 Ping me about **Python** its **codestyle**, **Discrete Maths**, **Applied Statistics** and **DS**
 - 🚗 Studying CV in context of **autonomous robots**. Currently working on [SalsaNext](https://github.com/Halmstad-University/SalsaNext) using [NVIDIA TensorRT SDK](https://developer.nvidia.com/tensorrt) and [Pytorch](https://pytorch.org).
 - 🧪 Trying to apply a **[Treiber's Intellegent Driver model](https://en.wikipedia.org/wiki/Intelligent_driver_model)** to real-world data under the supervision of [Tatiana Babicheva](https://scholar.google.com/citations?user=Apd66t4AAAAJ&hl=th), Versallies, France. [Code is here](https://github.com/yk4r2/ZhESSim).
 
