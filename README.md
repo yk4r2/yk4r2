@@ -6,7 +6,7 @@
 
 Applied Mathematics student at [Moscow University of Physics and Technology](https://mipt.ru/english/).
 
-CV Researcher with passion for ML and Product Analytics along with social dancing 🕺: bachata, hustle.\
+CV Researcher passionate for ML and Product Analytics along with social dancing 🕺: bachata, hustle.\
 Fascinated by everything that's DS related. Proudly from Moscow, Russia 🇷🇺.
 
 BTW, **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) without -us. 🦅
