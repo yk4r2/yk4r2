@@ -1,3 +1,4 @@
+![wallpaper](https://github.com/yk4r2/yk4r2/blob/master/GitHub.png)
 # Hello, I'm Egor Zhestow 👋
 
 ![Python](https://img.shields.io/badge/-python:%20expert-ffdc7c?logo=python&style=for-the-badge&logoWidth=30&suffix=expert&logoColor=white)
@@ -13,13 +14,12 @@ BTW, **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) withou
 
 ### 👾 BIO
 
-- 🔭 I'm currently studying **Discrete Mathematics** at [MIPT](https://mipt.ru/english/) and **Product Analytics** at [AAA](https://avito-analytics-academy.ru/)
-- 🌱 I'm currently learning **applied statistics** along with **econometrics**, **visualization** & **experiments theory**
+- 🔭 I'm currently studying **Discrete Mathematics** at [MIPT](https://mipt.ru/english/) and **Product Analytics** at [AAA](https://avito-analytics-academy.ru/),
 - ⚙️ Mastering: `.py`
-- 👯 I'm looking to collaborate on **Open Source** and **Case** projects
+- 👯 Looking to collaborate on **Open Source** and **Case** projects
 - 📫 Ping me about **Python** its **codestyle**, **Discrete Maths**, **Applied Statistics** and **DS**
 - 🚗 Studying CV in context of **autonomous robots**. Currently working on [SalsaNext](https://github.com/Halmstad-University/SalsaNext) using [Pytorch](https://pytorch.org) and [NVIDIA TensorRT SDK](https://developer.nvidia.com/tensorrt).
-- 🧪 Trying to apply a **[Treiber's Intellegent Driver model](https://en.wikipedia.org/wiki/Intelligent_driver_model)** to real-world data under the supervision of [Tatiana Babicheva](https://scholar.google.com/citations?user=Apd66t4AAAAJ&hl=th), Versallies, France. [Code is here](https://github.com/yk4r2/ZhesSim).
+- 🧪 Researching mathematical modelling and optimization applying **[Treiber's IDM](https://en.wikipedia.org/wiki/Intelligent_driver_model)** to real-world data under the supervision of [Tatiana Babicheva](https://scholar.google.com/citations?user=Apd66t4AAAAJ&hl=th), Versallies, France. [Code is here](https://github.com/yk4r2/ZhesSim).
 
 ### 📧Get in Touch
 
