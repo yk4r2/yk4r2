@@ -5,12 +5,12 @@
 ![SQL](https://img.shields.io/badge/-SQL:%20expert-ffaa67?&logo=postgresql&style=for-the-badge&logoWidth=75&suffix=expert)
 ![Scala](https://img.shields.io/badge/-SPARK+SCALA:%20normal-da674a?logo=scala&style=for-the-badge&logoWidth=75&suffix=expert&logoColor=white)
 
-Applied Mathematics student at [Moscow University of Physics and Technology](https://mipt.ru/english/).
+Applied Mathematics student at [Moscow University of Physics and Technology](https://mipt.ru/english/) 👨‍🏫.
 
-CV Researcher passionate for ML and Product Analytics.\
+CV Researcher passionate for ML and Product Analytics ☄.\
 Fascinated by everything that's DS related. Proudly from Moscow, Russia 🇷🇺.
 
-BTW, **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) without -us. 🦅
+BTW, **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) without -us 🦅.
 
 ### 👾 BIO
 
