@@ -1,9 +1,9 @@
 ![wallpaper](https://github.com/yk4r2/yk4r2/blob/master/GitHub.png)
 # Hello, I'm Egor Zhestow 👋
 
-![Python](https://img.shields.io/badge/-python:%20expert-ffdc7c?logo=python&style=for-the-badge&logoWidth=50&suffix=expert&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL:%20expert-ffaa67?&logo=postgresql&style=for-the-badge&logoWidth=50&suffix=expert)
-![Scala](https://img.shields.io/badge/-SPARK+SCALA:%20normal-da674a?logo=scala&style=for-the-badge&logoWidth=50&suffix=expert&logoColor=white)
+![Python](https://img.shields.io/badge/-python:%20expert-ffdc7c?logo=python&style=for-the-badge&logoWidth=75&suffix=expert&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL:%20expert-ffaa67?&logo=postgresql&style=for-the-badge&logoWidth=75&suffix=expert)
+![Scala](https://img.shields.io/badge/-SPARK+SCALA:%20normal-da674a?logo=scala&style=for-the-badge&logoWidth=75&suffix=expert&logoColor=white)
 
 Applied Mathematics student at [Moscow University of Physics and Technology](https://mipt.ru/english/).
 
@@ -23,6 +23,6 @@ BTW, **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) withou
 
 ### 📧Get in Touch
 
-[![My Telegram](https://img.shields.io/badge/-My%20telegram-2b4d59?&style=for-the-badge&logo=telegram&logoColor=white&logoWidth=30)](https://t.me/ykvr2) [![My blog in Telegram](https://img.shields.io/badge/-TG%20blog-39998e?&style=for-the-badge&logo=telegram&logoColor=white&logoWidth=30)](https://t.me/i_dont_like_camelCase) [![zhestov.ea@phystech.edu](https://img.shields.io/badge/my_email%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white&color=ffdc7c&logoWidth=30)](mailto:zhestov.ea@phystech.edu) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=ffaa67&logoWidth=30)](https://www.linkedin.com/in/yk4r2/) [![Github](https://img.shields.io/badge/-Github-da674a?&style=for-the-badge&logo=github&logoColor=white&logoWidth=30)](https://www.github.com/yk4r2)
+[![My Telegram](https://img.shields.io/badge/-My%20telegram-2b4d59?&style=for-the-badge&logo=telegram&logoColor=white&logoWidth=45)](https://t.me/ykvr2) [![My blog in Telegram](https://img.shields.io/badge/-TG%20blog-39998e?&style=for-the-badge&logo=telegram&logoColor=white&logoWidth=45)](https://t.me/i_dont_like_camelCase) [![zhestov.ea@phystech.edu](https://img.shields.io/badge/my_email%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white&color=ffdc7c&logoWidth=45)](mailto:zhestov.ea@phystech.edu) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=ffaa67&logoWidth=45)](https://www.linkedin.com/in/yk4r2/) [![Github](https://img.shields.io/badge/-Github-da674a?&style=for-the-badge&logo=github&logoColor=white&logoWidth=45)](https://www.github.com/yk4r2)
 
 ### 📚Looking for my CV? E-Mail me!
