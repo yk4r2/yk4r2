@@ -26,5 +26,3 @@ BTW, **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) withou
 [![My Telegram](https://img.shields.io/badge/-My%20telegram-2b4d59?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ykvr2) [![My blog in Telegram](https://img.shields.io/badge/-Telegram%20blog-39998e?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/i_dont_like_camelCase) [![zhestov.ea@phystech.edu](https://img.shields.io/badge/my_email%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white&color=ffdc7c)](mailto:zhestov.ea@phystech.edu) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=ffaa67)](https://www.linkedin.com/in/yk4r2/) [![Github](https://img.shields.io/badge/-Github-da674a?&style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/yk4r2)
 
 ### 📚Looking for my CV? E-Mail me!
-
-![Egor Zhestow's github stats](https://github-readme-stats.vercel.app/api?username=yk4r2&show_icons=true&hide_border=true)
