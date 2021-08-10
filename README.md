@@ -6,7 +6,7 @@
 ![Scala](https://img.shields.io/badge/-SPARK+SCALA:%20normal-da674a?logo=scala&style=for-the-badge&suffix=expert&logoColor=white)
 
 Applied Mathematics bachelor from [Moscow University of Physics and Technology](https://mipt.ru/english/) 👨‍🏫,
-Currently go to [New Economic School](https://www.nes.ru/)🙋🏻‍♂️.
+Currently go to [New Economic School](https://www.nes.ru/?lang=en)🙋🏻‍♂️.
 
 CV Researcher passionate for ML, Quantitative Research and Product Analytics ☄.\
 Fascinated by everything that's DS related. Proudly from Moscow, Russia 🇷🇺.
@@ -15,7 +15,7 @@ BTW, **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) withou
 
 ### 👾 BIO
 
-- 🔭 I'm currently studying **Discrete Mathematics** at [MIPT](https://mipt.ru/english/) and **Product Analytics** at [AAA](https://avito-analytics-academy.ru/),
+- 🔭 I'm currently studying **Economics** at [NES](https://www.nes.ru/?lang=en) and **Product Analytics** at [AAA](https://avito-analytics-academy.ru/),
 - ⚙️ Mastering: `.py`
 - 👯 Looking to collaborate on **Open Source** and **Case** projects
 - 📫 Ping me about **Python** its **codestyle**, **Discrete Maths**, **Applied Statistics** and **DS**,
