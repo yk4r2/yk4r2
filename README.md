@@ -5,8 +5,8 @@
 ![SQL](https://img.shields.io/badge/-%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80SQL:%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%20expert-ffaa67?&logo=postgresql&style=for-the-badge&suffix=expert)
 ![Scala](https://img.shields.io/badge/-SPARK+SCALA:%20normal-da674a?logo=scala&style=for-the-badge&suffix=expert&logoColor=white)
 
-- Currently go to [New Economic School](https://www.nes.ru/?lang=en) 🙋🏻‍♂️,\
-- [Avito Analytics Academy](https://avito-analytics-academy.ru) attender 🥑,\
+- Currently go to [New Economic School](https://www.nes.ru/?lang=en) 🙋🏻‍♂️,
+- [Avito Analytics Academy](https://avito-analytics-academy.ru) attender 🥑,
 - Applied Mathematics bachelor from [Moscow University of Physics and Technology](https://mipt.ru/english/) 👨‍🏫.
 
 CV Researcher passionate for ML, Quantitative Research and Product Analytics ☄.\
