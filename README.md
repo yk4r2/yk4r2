@@ -7,10 +7,14 @@
 
 ## 🔎 About me
 
-CV Researcher passionate for ML, Quantitative Research and Product Analytics ☄.\
+Quantitative Data Scientist passionate for Alternative Data Sources and Product Analytics ☄.\
 Fascinated by everything that's DS related. Proudly from Moscow, Russia 🇷🇺.
 
 BTW, **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) without -us 🦅.
+
+### 🏋️‍♀️ Work
+- Now I'm working at Raiffeisen Bank, 🇷🇺 as a Quantitative DS 💽,
+- Volunteer teacher’s assistant in DS at [IQF, HSE](https://iqf.hse.ru/) 💸.
 
 ### 🎓 Education
 - Currently go to [New Economic School](https://www.nes.ru/?lang=en) 🙋🏻‍♂️,
