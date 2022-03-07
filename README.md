@@ -8,12 +8,13 @@
 ## 🔎 About me
 
 Quantitative Data Scientist passionate for Alternative Data Sources and Product Analytics ☄.\
-Fascinated by everything that's DS related. Proudly from Moscow, Russia 🇷🇺.
+Fascinated by everything that's DS related. From Moscow with love ❤️.
 
 BTW, **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) without -us 🦅.
 
 ### 🏋️‍♀️ Work
-- Now I'm working at Raiffeisen Bank, 🇷🇺 as a Quantitative DS 💽,
+- Now I'm working at [Raiffeisen Bank, RU](www.raiffeisen.ru/) as a Quantitative DS 💽,
+– Also worked in E-Commerce ([Joom](www.joom.com)) and with autonomous robots ([IntegraNT](www.integrant.ru/)).
 - Volunteer teacher’s assistant in DS at [IQF, HSE](https://iqf.hse.ru/) 💸.
 
 ### 🎓 Education
