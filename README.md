@@ -1,9 +1,9 @@
 ![wallpaper](https://github.com/yk4r2/yk4r2/blob/master/GitHub.png)
 # Hello, I'm Egor Zhestow 👋
 
-![Python](https://img.shields.io/badge/-%E2%A0%80%E2%A0%80%E2%A0%80python:%E2%A0%80%E2%A0%80%E2%A0%80%20expert-ffdc7c?logo=python&style=for-the-badge&suffix=expert&logoColor=white)
-![SQL](https://img.shields.io/badge/-%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80SQL:%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%20expert-ffaa67?&logo=postgresql&style=for-the-badge&suffix=expert)
-![Scala](https://img.shields.io/badge/-SPARK+SCALA:%20normal-da674a?logo=scala&style=for-the-badge&suffix=expert&logoColor=white)
+![Python](https://img.shields.io/badge/-%E2%A0%80%E2%A0%80%E2%A0%80python:%20%20%208/10-ffdc7c?logo=python&style=for-the-badge&suffix=expert&logoColor=white)
+![SQL](https://img.shields.io/badge/-%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80SQL:$20%20%207/10-ffaa67?&logo=postgresql&style=for-the-badge&suffix=expert)
+![Scala](https://img.shields.io/badge/-SPARK+SCALA:%204/10-da674a?logo=scala&style=for-the-badge&suffix=expert&logoColor=white)
 
 ## 🔎 About me
 
