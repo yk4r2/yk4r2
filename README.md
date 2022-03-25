@@ -27,6 +27,7 @@ BTW, **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) withou
 - 🔭 I'm currently studying **Economics** at [NES](https://www.nes.ru/?lang=en) and **Product Analytics** at [AAA](https://avito-analytics-academy.ru/),
 - ⚙️ Mastering: `.py`
 - 📫 Ping me about **Python** its **codestyle**, **Discrete Maths**, **Applied Statistics** and **DS**,
+- 🏆 **[International Data Analysis Olympiad 2022](idao.world) finalist** (top3 semi-finals),
 - 🧪 Researching mathematical modelling and optimization applying **[Treiber's IDM](https://en.wikipedia.org/wiki/Intelligent_driver_model)** to real-world data under the supervision of [Tatiana Babicheva](https://scholar.google.com/citations?user=Apd66t4AAAAJ&hl=th), Versallies, France. [Code is here](https://github.com/yk4r2/ZhesSim).
 
 ### 📧 Get in Touch
