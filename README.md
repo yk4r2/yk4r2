@@ -1,10 +1,10 @@
 ![wallpaper](https://github.com/yk4r2/yk4r2/blob/master/GitHub.png)
 # Hello, I'm Egor Zhestow 👋
 
-![Python](https://img.shields.io/badge/-%20%20%20%20python%20%20%20-f2d6b4?logo=python&style=for-the-badge&suffix=expert&logoColor=white)
-![SQL](https://img.shields.io/badge/-%20%20%20%20SQL%20%20%20-94d5d8?&logo=postgresql&style=for-the-badge&suffix=expert)
-![Scala](https://img.shields.io/badge/-SPARK+SCALA%20-7696ba?logo=scala&style=for-the-badge&suffix=expert&logoColor=white)
-![C++](https://img.shields.io/badge/-C++%20-a9cbb8?logo=cplusplus&style=for-the-badge&suffix=expert&logoColor=white)
+![Python](https://img.shields.io/badge/-%20%20%20%20python%20%20%20-FD5D5D?logo=python&style=for-the-badge&suffix=expert&logoColor=white)
+![SQL](https://img.shields.io/badge/-%20%20%20%20SQL%20%20%20-FF8080?&logo=postgresql&style=for-the-badge&suffix=expert)
+![Scala](https://img.shields.io/badge/-SPARK+SCALA%20-FFF7BC?logo=scala&style=for-the-badge&suffix=expert&logoColor=white)
+![C++](https://img.shields.io/badge/-C++%20-C0EDA6?logo=cplusplus&style=for-the-badge&suffix=expert&logoColor=white)
 
 ## 🔎 About me
 
