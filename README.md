@@ -2,7 +2,7 @@
 # Hello, I'm Egor Zhestow 👋
 
 ![Python](https://img.shields.io/badge/-%20%20%20%20python%20%20%20-39998e?logo=python&style=for-the-badge&suffix=expert&logoColor=white)
-![SQL](https://img.shields.io/badge/-%20%20%20%20SQL%20%20%20-ffdc7c?&logo=postgresql&style=for-the-badge&suffix=expert&logoColor=white)
+![SQL](https://img.shields.io/badge/-%20%20%20%20SQL%20%20%20-ffdc7c?&logo=postgresql&style=for-the-badge&suffix=expert)
 ![Scala](https://img.shields.io/badge/-SPARK+SCALA%20-ffaa67?logo=scala&style=for-the-badge&suffix=expert&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++%20-da674a?logo=cplusplus&style=for-the-badge&suffix=expert&logoColor=white)
 
