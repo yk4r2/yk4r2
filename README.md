@@ -20,7 +20,7 @@ BTW, **yk4r2** spells like [Icarus](https://en.wikipedia.org/wiki/Icarus) withou
 
 ### 🎓 Education
 - Currently go to [New Economic School](https://www.nes.ru/?lang=en) 🙋🏻‍♂️,
-- [Avito Analytics Academy](https://avito-analytics-academy.ru) attender 🥑,
+- [Avito Analytics Academy](https://avito-analytics-academy.ru) graduate 🥑,
 - Applied Mathematics bachelor from [Moscow University of Physics and Technology](https://mipt.ru/english/) 👨‍🏫.
 
 ### 👾 BIO
